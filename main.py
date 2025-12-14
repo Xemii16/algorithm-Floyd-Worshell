@@ -185,12 +185,13 @@ def measure_time(func, *args, **kwargs):
 def save_result(n, density, min_weight, max_weight, graph_generation_time, adjacency_matrix_generation_time,
                 algorithm_work_time):
     results = []
+    json_path = "experiment.json"
     try:
-        with open("experiment.json", "r") as file:
+        with open(json_path, "r") as file:
             results = json.load(file)
     except FileNotFoundError as e:
         print(f"File will be created: {e}")
-    with open("experiment.json", "w") as file:
+    with open(json_path, "w") as file:
         results.append({
             "n": n,
             "density": density,
@@ -213,8 +214,8 @@ def main():
     # )
 
     # experiment
-    for _ in range(2):
-        n = random.randint(20, 200)
+    for _ in range(20):
+        n = random.randint(20, 200) # 200
         density = random.uniform(0.90, 0.99)
         min_weight = random.randint(0, 20)
         max_weight = random.randint(80, 100)
