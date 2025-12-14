@@ -1,1 +1,182 @@
-[{"n": 50, "density": 0.9, "min_weight": 13, "max_weight": 98, "graph_generation_time": 742.4728870391846, "adjacency_matrix_generation_time": 386.34419441223145, "algorithm_work_time": 405.78627586364746}, {"n": 50, "density": 0.9, "min_weight": 6, "max_weight": 86, "graph_generation_time": 623.4033107757568, "adjacency_matrix_generation_time": 391.39389991760254, "algorithm_work_time": 395.05767822265625}, {"n": 50, "density": 0.9, "min_weight": 17, "max_weight": 100, "graph_generation_time": 667.5207614898682, "adjacency_matrix_generation_time": 380.8784484863281, "algorithm_work_time": 422.8358268737793}, {"n": 50, "density": 0.9, "min_weight": 18, "max_weight": 82, "graph_generation_time": 571.0923671722412, "adjacency_matrix_generation_time": 386.2903118133545, "algorithm_work_time": 400.08544921875}, {"n": 50, "density": 0.9, "min_weight": 18, "max_weight": 91, "graph_generation_time": 586.641788482666, "adjacency_matrix_generation_time": 387.62497901916504, "algorithm_work_time": 402.8191566467285}, {"n": 50, "density": 0.9, "min_weight": 9, "max_weight": 93, "graph_generation_time": 537.2066497802734, "adjacency_matrix_generation_time": 384.99975204467773, "algorithm_work_time": 416.46552085876465}, {"n": 50, "density": 0.9, "min_weight": 11, "max_weight": 83, "graph_generation_time": 679.9049377441406, "adjacency_matrix_generation_time": 378.97491455078125, "algorithm_work_time": 417.06180572509766}, {"n": 50, "density": 0.9, "min_weight": 18, "max_weight": 97, "graph_generation_time": 587.9342555999756, "adjacency_matrix_generation_time": 394.03223991394043, "algorithm_work_time": 402.16803550720215}, {"n": 50, "density": 0.9, "min_weight": 9, "max_weight": 100, "graph_generation_time": 593.3818817138672, "adjacency_matrix_generation_time": 418.2860851287842, "algorithm_work_time": 401.9150733947754}, {"n": 50, "density": 0.9, "min_weight": 8, "max_weight": 86, "graph_generation_time": 585.303544998169, "adjacency_matrix_generation_time": 433.3844184875488, "algorithm_work_time": 445.06311416625977}, {"n": 50, "density": 0.9, "min_weight": 9, "max_weight": 99, "graph_generation_time": 633.1641674041748, "adjacency_matrix_generation_time": 393.3298587799072, "algorithm_work_time": 407.26542472839355}, {"n": 50, "density": 0.9, "min_weight": 4, "max_weight": 86, "graph_generation_time": 641.730546951294, "adjacency_matrix_generation_time": 389.1932964324951, "algorithm_work_time": 399.80435371398926}, {"n": 50, "density": 0.9, "min_weight": 7, "max_weight": 92, "graph_generation_time": 603.4207344055176, "adjacency_matrix_generation_time": 420.13049125671387, "algorithm_work_time": 410.628080368042}, {"n": 50, "density": 0.9, "min_weight": 11, "max_weight": 99, "graph_generation_time": 662.8797054290771, "adjacency_matrix_generation_time": 392.7738666534424, "algorithm_work_time": 432.9485893249512}, {"n": 50, "density": 0.9, "min_weight": 15, "max_weight": 83, "graph_generation_time": 674.3509769439697, "adjacency_matrix_generation_time": 387.32218742370605, "algorithm_work_time": 408.5872173309326}, {"n": 50, "density": 0.9, "min_weight": 5, "max_weight": 84, "graph_generation_time": 596.1015224456787, "adjacency_matrix_generation_time": 389.751672744751, "algorithm_work_time": 405.49683570861816}, {"n": 50, "density": 0.9, "min_weight": 20, "max_weight": 99, "graph_generation_time": 593.6355590820312, "adjacency_matrix_generation_time": 389.6660804748535, "algorithm_work_time": 398.99230003356934}, {"n": 50, "density": 0.9, "min_weight": 5, "max_weight": 82, "graph_generation_time": 603.7476062774658, "adjacency_matrix_generation_time": 456.50291442871094, "algorithm_work_time": 447.4318027496338}, {"n": 50, "density": 0.9, "min_weight": 7, "max_weight": 92, "graph_generation_time": 703.0866146087646, "adjacency_matrix_generation_time": 395.9174156188965, "algorithm_work_time": 399.2326259613037}, {"n": 50, "density": 0.9, "min_weight": 2, "max_weight": 88, "graph_generation_time": 697.8564262390137, "adjacency_matrix_generation_time": 384.1745853424072, "algorithm_work_time": 417.3130989074707}]
+[
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 13,
+    "max_weight": 98,
+    "graph_generation_time": 742.4728870391846,
+    "adjacency_matrix_generation_time": 386.34419441223145,
+    "algorithm_work_time": 405.78627586364746
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 6,
+    "max_weight": 86,
+    "graph_generation_time": 623.4033107757568,
+    "adjacency_matrix_generation_time": 391.39389991760254,
+    "algorithm_work_time": 395.05767822265625
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 17,
+    "max_weight": 100,
+    "graph_generation_time": 667.5207614898682,
+    "adjacency_matrix_generation_time": 380.8784484863281,
+    "algorithm_work_time": 422.8358268737793
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 18,
+    "max_weight": 82,
+    "graph_generation_time": 571.0923671722412,
+    "adjacency_matrix_generation_time": 386.2903118133545,
+    "algorithm_work_time": 400.08544921875
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 18,
+    "max_weight": 91,
+    "graph_generation_time": 586.641788482666,
+    "adjacency_matrix_generation_time": 387.62497901916504,
+    "algorithm_work_time": 402.8191566467285
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 9,
+    "max_weight": 93,
+    "graph_generation_time": 537.2066497802734,
+    "adjacency_matrix_generation_time": 384.99975204467773,
+    "algorithm_work_time": 416.46552085876465
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 11,
+    "max_weight": 83,
+    "graph_generation_time": 679.9049377441406,
+    "adjacency_matrix_generation_time": 378.97491455078125,
+    "algorithm_work_time": 417.06180572509766
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 18,
+    "max_weight": 97,
+    "graph_generation_time": 587.9342555999756,
+    "adjacency_matrix_generation_time": 394.03223991394043,
+    "algorithm_work_time": 402.16803550720215
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 9,
+    "max_weight": 100,
+    "graph_generation_time": 593.3818817138672,
+    "adjacency_matrix_generation_time": 418.2860851287842,
+    "algorithm_work_time": 401.9150733947754
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 8,
+    "max_weight": 86,
+    "graph_generation_time": 585.303544998169,
+    "adjacency_matrix_generation_time": 433.3844184875488,
+    "algorithm_work_time": 445.06311416625977
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 9,
+    "max_weight": 99,
+    "graph_generation_time": 633.1641674041748,
+    "adjacency_matrix_generation_time": 393.3298587799072,
+    "algorithm_work_time": 407.26542472839355
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 4,
+    "max_weight": 86,
+    "graph_generation_time": 641.730546951294,
+    "adjacency_matrix_generation_time": 389.1932964324951,
+    "algorithm_work_time": 399.80435371398926
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 7,
+    "max_weight": 92,
+    "graph_generation_time": 603.4207344055176,
+    "adjacency_matrix_generation_time": 420.13049125671387,
+    "algorithm_work_time": 410.628080368042
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 11,
+    "max_weight": 99,
+    "graph_generation_time": 662.8797054290771,
+    "adjacency_matrix_generation_time": 392.7738666534424,
+    "algorithm_work_time": 432.9485893249512
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 15,
+    "max_weight": 83,
+    "graph_generation_time": 674.3509769439697,
+    "adjacency_matrix_generation_time": 387.32218742370605,
+    "algorithm_work_time": 408.5872173309326
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 5,
+    "max_weight": 84,
+    "graph_generation_time": 596.1015224456787,
+    "adjacency_matrix_generation_time": 389.751672744751,
+    "algorithm_work_time": 405.49683570861816
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 20,
+    "max_weight": 99,
+    "graph_generation_time": 593.6355590820312,
+    "adjacency_matrix_generation_time": 389.6660804748535,
+    "algorithm_work_time": 398.99230003356934
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 5,
+    "max_weight": 82,
+    "graph_generation_time": 603.7476062774658,
+    "adjacency_matrix_generation_time": 456.50291442871094,
+    "algorithm_work_time": 447.4318027496338
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 7,
+    "max_weight": 92,
+    "graph_generation_time": 703.0866146087646,
+    "adjacency_matrix_generation_time": 395.9174156188965,
+    "algorithm_work_time": 399.2326259613037
+  },
+  {
+    "n": 50,
+    "density": 0.9,
+    "min_weight": 2,
+    "max_weight": 88,
+    "graph_generation_time": 697.8564262390137,
+    "adjacency_matrix_generation_time": 384.1745853424072,
+    "algorithm_work_time": 417.3130989074707
+  }
+]
